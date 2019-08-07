@@ -1,0 +1,15 @@
+.app-auth-header {
+	position: fixed;
+	width: 100%;
+	z-index: 1000;
+}
+
+.auth-headerbar {
+	height: 126px;
+	background-color: #D20609;
+}
+
+.auth-header-logo {
+	height: 58px;
+	margin-left: 145px;
+}

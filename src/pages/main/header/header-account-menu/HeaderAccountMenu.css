@@ -1,0 +1,21 @@
+.header-account-menu-container {
+	width: 100%;
+	height: 150px;
+	background-color: #FFFFFF;
+}
+
+.header-account-menu-item-view {
+	width: 100%;
+	height: 50px;
+	cursor: pointer;
+	border-bottom: 1px solid #707070;
+}
+
+.header-account-menu-item-view:last-child {
+	border-bottom: none;
+}
+
+.header-account-menu-button {
+	color: #3F3F3F;
+	margin-left: 15px;
+}

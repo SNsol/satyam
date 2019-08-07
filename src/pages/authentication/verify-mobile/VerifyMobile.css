@@ -1,0 +1,39 @@
+.verify-mobile-view {
+   padding-top: 126px;
+}
+
+.verify-mobile-panel {
+   flex-grow: 0;
+   flex-shrink: 0;
+   flex-basis: 550px;
+   min-height: 500px;
+   border: 1px solid #bcbcbc;
+   border-radius: 5px;
+   margin: 15px 0;
+}
+
+.verify-mobile-body {
+   padding: 70px 60px 0px 60px;
+   min-height: 440px;
+}
+
+.verify-mobile-header {
+	color: #E24E50;
+	font-size: 30px;
+}
+
+.verify-mobile-guide-view {
+   margin-top: 25px;
+}
+
+.verify-mobile-guide-label {
+   color: #000000;
+}
+
+.verify-mobile-otp-view {
+   margin-top: 30px;
+}
+
+.verify-mobile-signin-view {
+   margin-top: 20px;
+}

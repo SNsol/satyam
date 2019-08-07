@@ -1,0 +1,26 @@
+.removeaddress-modal-title {
+	color: #000000;
+	font-size: 17px;
+}
+
+.removeaddress-modal-subtitle {
+	font-size: 14px;
+	color: #000000;
+}
+
+.removeaddress-modal-button {
+	background-color: #CE0204;
+	border-radius: 15px;
+	color: #F5F5F5;
+	border:none;
+	padding: 5px 15px;
+	font-size: 14px;
+}
+
+.removeaddress-mr-10 {
+	margin-right: 10px;
+}
+
+.removeaddress-modal-button:disabled { 
+	background-color: #b8bdc4;
+}

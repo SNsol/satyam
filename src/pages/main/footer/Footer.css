@@ -1,0 +1,42 @@
+.footerbar {
+	height: 210px;
+	background-color: #5C5C5C;
+	border-top: 1px solid #C0C0C0;
+	position: relative;
+}
+
+.footer-copyright-label {
+	color: #FFFFFF;
+	font-size: 22px;
+}
+
+.social-view {
+	position: absolute;
+	top: 0;
+	right: 154px;
+}
+
+.follow-view, .sharing-view {
+	height: 50%;
+}
+
+.follow-us-label, .share-us-label {
+	color: #FFFFFF;
+	font-size: 24px;
+}
+
+.social-icon {
+	height: 42px;
+}
+
+.sa-ml-15 {
+	margin-left: 15px;
+}
+
+.sa-mt-10 {
+	padding-top: 10px;
+}
+
+.sa-mt-5 {
+	margin-top: 5px;
+}

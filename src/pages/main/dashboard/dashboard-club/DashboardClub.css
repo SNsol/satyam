@@ -1,0 +1,66 @@
+.dashboard-club-container {
+	border: 1px solid #707070;
+	border-radius: 7px;
+	overflow: hidden;;
+	overflow: hidden;
+}
+
+.dashboard-club-header {
+	height: 50px;
+	background-color: #D20609;
+}
+
+.dashboard-club-header-label {
+	margin-left: 30px;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+
+.dashboard-club-arrow-left-icon, .dashboard-club-arrow-right-icon {
+	width: 7px;
+	height: 10px;
+}
+
+.dashboard-club-arrow-left-icon {
+	margin-right: 8px;
+}
+
+.dashboard-club-arrow-right-icon {
+	margin-right: 10px;
+}
+
+.dashboard-club-image {
+	width: 175px;
+	height: 105px;
+}
+
+.dashboard-club-navigate-button {
+	cursor: pointer;
+}
+
+.dashboard-club-item-image-container {
+	width: 100%;
+	height: 160px;
+	border-bottom: 1px solid #707070;
+}
+
+.dashboard-club-detail-view {
+	width: 100%;
+	height: 80px;
+	padding-top: 10px;
+}
+
+.dashboard-club-item-label {
+	line-height: 20px;
+    max-height: 40px;
+    overflow: hidden;
+	font-size: 14px;
+	color: #191919;
+	margin: 0px 10px;
+}
+
+.dashboard-club-item-price-label {
+	font-size: 14px;
+	color: #CE0204;
+	margin: 10px 10px 0px 10px;
+}

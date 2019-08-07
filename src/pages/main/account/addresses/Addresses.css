@@ -1,0 +1,114 @@
+.addresses-view {
+	width: 100%;
+}
+
+.address-header {
+	height: 50px;
+	background-color: #FFFFFF;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.address-header-label {
+	margin-left: 30px;
+	color: #000000;
+	font-size: 17px;
+}
+
+.address-addaddress-button {
+	cursor: pointer;
+	width: 140px;
+	height: 25px;
+	background-color: #D04040;
+	border-radius: 5px;
+	position: relative;
+	overflow: hidden;
+	margin-right: 30px;
+}
+
+.address-increment-button {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 2;
+	width: 25px;
+	height: 25px;
+	background-color: #9F0D0D;
+}
+
+.address-increment-icon {
+	width: 14px;
+	height: 14px;
+}
+
+.address-addaddress-label {
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-left: 20px;
+}
+
+.address-list-view {
+	width: 100%;
+}
+
+.address-loader-view {
+	height: 400px;
+}
+
+.address-list-container {
+	margin: 20px 30px;
+	width: calc(100% - 60px);
+}
+
+.address-no-address-view {
+	width: 100%;
+	height: 400px;
+}
+
+.address-no-address-label {
+	font-size: 14px;
+	color: #000000;
+	margin-top: 20px;
+}
+
+.address-item-view {
+	width: 100%;
+}
+
+.address-item-header-label {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.address-item-label {
+	font-size: 14px;
+}
+
+.address-item-detail-view {
+	width: calc(100% - 25px);
+	cursor: pointer;
+}
+
+.address-delete-view {
+	width: 25px;
+}
+
+.address-close-image {
+	width: 25px;
+	height: 25px;
+}
+
+.address-item-container-view {
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+.address-item-container-view:last-child {
+	border-bottom: none;
+	margin-bottom: 0;
+}
+
+.address-delete-view {
+	cursor: pointer;
+}

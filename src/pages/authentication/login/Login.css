@@ -1,0 +1,78 @@
+.login-view {
+	padding-top: 126px;
+}
+
+.login-panel, .login-otp-panel {
+   flex-grow: 0;
+   flex-shrink: 0;
+   flex-basis: 550px;
+   min-height: 500px;
+   border: 1px solid #bcbcbc;
+   border-radius: 5px;
+   margin: 15px 0;
+   position: relative;
+}
+
+.login-or-panel {
+   	flex-grow: 0;
+   	flex-shrink: 0;
+   	flex-basis: 100px;
+   	min-height: 500px;
+}
+
+.login-body, .login-otp-body {
+   margin: 70px 60px 90px 60px;
+   min-height: 440px;
+}
+
+.login-or-label {
+	color: #E24E50;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.login-header {
+	color: #E24E50;
+	font-size: 30px;
+}
+
+.username-view, .password-view {
+	margin-top: 30px;
+}
+
+.signin-view {
+	margin-top: 20px;
+}
+
+.login-forgot-password-view {
+	position: absolute;
+	bottom: 60px;
+	left: 0;
+	padding: 10px 60px;
+}
+
+.forgot-password-link {
+	font-weight: bold;
+	color: #3CAAEA; 
+}
+
+.login-option-view {
+	height: 60px;
+	border-top: 1px solid #B8B8B8;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.login-option-label, .login-option-link {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.login-option-label {
+	color: #000000;
+}
+
+.login-option-link {
+	color: #E24E50;
+}

@@ -1,0 +1,45 @@
+.dashboard-category-header {
+	height: 50px;
+	background-color: #D20609;
+}
+
+.dashboard-category-header-icon {
+	margin-left: 10px;
+}
+
+.dashboard-category-header-icon {
+	height: 12.5px;
+}
+
+.dashboard-category-header-label {
+	margin-left: 10px;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+
+.dashboard-category-item-view {
+	height: 400px;
+	overflow: auto;
+}
+
+.dashboard-category-item {
+	background-color: #FFFFFF;
+	height: 50px;
+	border-bottom: 1px solid #707070;
+	cursor: pointer;
+}
+
+.dashboard-category-item-label {
+	color: #3F3F3F;
+	font-size: 14px;
+	margin-left: 35px;
+	width: calc(100% - 80px)
+}
+
+.dashboard-category-item-icon-view {
+	width: 45px;
+}
+
+.dashboard-category-item-icon {
+	height: 10px;
+}

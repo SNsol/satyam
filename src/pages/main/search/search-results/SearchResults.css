@@ -1,0 +1,81 @@
+.search-results-view {
+	background-color: #FFFFFF;
+}
+
+.search-results-container {
+	padding-top: 95px;
+	background-color: #FFFFFF;
+}
+
+.search-results-products-item-view {
+	width: 1200px;
+	padding: 40px;
+}
+
+.search-results-loader-view {
+	width: 100%;
+	height: 600px;
+}
+
+.search-results-products-header-view {
+	width: 100%;
+	height: 65px;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.search-result-home-link {
+	font-size: 14px;
+	font-weight: 300;
+	color: #666666;
+}
+
+.search-results-products-header-view {
+	padding-left: 60px;
+}
+
+.search-result-tree-arrow {
+	font-size: 14px;
+	font-weight: 300;
+	color: #666666;
+	margin-left: 5px;
+}
+
+.search-result-tree-label {
+	font-size: 14px;
+	font-weight: 300;
+	color: #666666;
+	margin-left: 5px;
+}
+
+.search-results-products-header-top-view {
+	margin-top: 10px;
+}
+
+.search-results-products-header-label-view  {
+	margin-top: 5px;
+}
+
+.search-result-header-label {
+	font-size: 18px;
+	color: #000000;
+}
+
+.search-results-products-item-container {
+	width: 100%;
+	margin: -5px -10px;
+}
+
+.search-results-products-item {
+	margin: 5px 5px;
+}
+
+.search-results-no-products-view {
+	width: 100%;
+	height: 400px;
+}
+
+.search-results-no-products-label {
+	font-size: 18px;
+	color: #000000;
+	margin-left: 20px;
+}

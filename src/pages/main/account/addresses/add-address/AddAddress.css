@@ -1,0 +1,59 @@
+.addaddress-modal-title {
+	color: #000000;
+	font-size: 17px;
+}
+
+.addaddress-modal-subtitle {
+	font-size: 14px;
+	color: #000000;
+}
+
+.addaddress-item-group {
+
+}
+
+.addaddress-item-label {
+	color: #333333;
+	font-size: 14px;
+}
+
+.addaddress-item-input {
+	border-radius: 2px;
+	border: 1px solid #CCCCCC;
+	height: 35px;
+	color: #666666;
+	padding: 0px 10px;
+	font-size: 14px;
+	width: 100%;
+}
+
+.addaddress-error { 
+	border: 1px solid red; 
+}
+
+.addaddress-error-label {
+	color: red;
+	margin: 0;
+	font-size: 12px;
+}
+
+.addaddress-mt-5 {
+	margin-top: 5px;
+}
+
+.addaddress-modal-button {
+	background-color: #CE0204;
+	border-radius: 15px;
+	color: #F5F5F5;
+	border:none;
+	padding: 5px 15px;
+	font-size: 14px;
+}
+
+.addaddress-mr-10 {
+	margin-right: 10px;
+}
+
+.addaddress-modal-button:disabled { 
+	background-color: #b8bdc4;
+}

@@ -1,0 +1,10 @@
+.auth-footerbar {
+	height: 237px;
+	background-color: #F8F8F8;
+	border-top: 1px solid #C0C0C0;
+}
+
+.auth-footer-copyright-label {
+	color: #E24E50;
+	font-size: 20px;
+}

@@ -1,0 +1,145 @@
+.view-products-container-view {
+	padding-top: 95px;
+	background-color: #FFFFFF;
+}
+
+.view-products-container {
+	width: 1200px;
+}
+
+.view-products-container-main-view {
+	padding: 20px 0px;
+}
+
+.view-products-subcategory-loader-view {
+	height: 400px;
+}
+
+.view-products-subcategory-menu-view {
+	width: 280px;
+}
+
+.view-products-products-view {
+	width: calc(100% - 280px);
+	border: 1px solid #CCCCCC;
+	border-left: 0;
+	border-collapse: collapse;
+}
+
+.view-products-subcategory-list-view {
+	min-height: 400px;
+	height: 100%;
+	border: 1px solid #CCCCCC;
+	border-collapse: collapse;
+}
+
+.view-products-subcategory-header-view {
+	height: 50px;
+	background-color: #D20609;
+	cursor: pointer;
+}
+
+.view-products-subcategory-header-icon {
+	margin-left: 10px;
+	height: 12.5px;
+}
+
+.view-products-subcategory-header-label {
+	margin-left: 10px;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+
+.view-products-subcategory-item {
+	background-color: #FFFFFF;
+	height: 50px;
+	border-bottom: 1px solid #CCCCCC;
+	cursor: pointer;
+}
+
+.view-products-subcategory-item-label {
+	color: #3F3F3F;
+	font-size: 14px;
+	margin-left: 35px;
+}
+
+.view-products-products-loader-view {
+	height: 400px;
+}
+
+.view-products-no-products-view {
+	width: 100%;
+	height: 400px;
+}
+
+.view-products-no-products-label {
+	font-size: 18px;
+	color: #000000;
+	margin: 20px;
+}
+
+.view-products-products-item-container {
+	padding: 20px;
+	width: 100%;
+	margin: -5px -10px;
+}
+
+.view-products-products-item {
+	margin: 5px 5px;
+}
+
+.view-products-header-view {
+	width: 100%;
+	height: 65px;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.view-products-home-link {
+	font-size: 14px;
+	font-weight: 300;
+	color: #666666;
+}
+
+.view-products-home-link-div {
+	font-size: 14px;
+	font-weight: 300;
+	color: #666666;
+	margin-left: 5px;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.view-products-home-link-div:hover {
+	text-decoration: underline;
+}
+
+.view-products-header-view {
+	padding-left: 20px;
+}
+
+.view-products-tree-arrow {
+	font-size: 14px;
+	font-weight: 300;
+	color: #666666;
+	margin-left: 5px;
+}
+
+.view-products-tree-label {
+	font-size: 14px;
+	font-weight: 300;
+	color: #666666;
+	margin-left: 5px;
+}
+
+.view-products-header-top-view {
+	margin-top: 10px;
+}
+
+.view-products-header-label-view  {
+	margin-top: 5px;
+}
+
+.view-products-header-label {
+	font-size: 18px;
+	color: #000000;
+}

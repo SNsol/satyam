@@ -1,0 +1,89 @@
+.dashboard-hot-deals-container {
+	border: 1px solid #707070;
+	border-radius: 7px;
+	overflow: hidden;
+	overflow: hidden;
+}
+
+.dashboard-hot-deals-header {
+	height: 50px;
+	background-color: #D20609;
+}
+
+.dashboard-hot-deals-header-label {
+	margin-left: 30px;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+
+.dashboard-hot-deals-arrow-left-icon, .dashboard-hot-deals-arrow-right-icon {
+	width: 7px;
+	height: 10px;
+}
+
+.dashboard-hot-deals-arrow-left-icon {
+	margin-right: 8px;
+}
+
+.dashboard-hot-deals-arrow-right-icon {
+	margin-right: 10px;
+}
+
+.dashboard-hot-deals-image {
+	width: 280px;
+	height: 280px;
+}
+
+.dashboard-hot-deals-navigate-button {
+	cursor: pointer;
+}
+
+.dashboard-hot-deals-detail-label {
+	margin-left: 10px;
+	line-height: 20px;
+    max-height: 40px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #535353;
+}
+
+.dashboard-hot-deals-details-view {
+	height: 60px;
+}
+
+.dashboard-hot-deals-details-container {
+	width: calc(100% - 120px);
+}
+
+.dashboard-hot-deals-cart-view {
+	position: relative;
+	width: 120px;
+}
+
+.dashboard-hot-detals-cart-button {
+	background-color: #CE0204;
+	border-radius: 15px;
+	color: #F5F5F5;
+	border:none;
+	padding: 5px 15px;
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+	font-size: 12px;
+}
+
+.dashboard-hot-deals-price-view {
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+.dashboard-hot-deals-price-label {
+	font-size: 7px;
+	color: #CE0204;
+}
+
+.dashboard-hot-deals-discount-price-label {
+	font-size: 7px;
+	color: #B3B3B3;
+	margin-left: 10px;
+}
