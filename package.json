@@ -10,7 +10,7 @@
     "react-bootstrap-typeahead": "^3.3.4",
     "react-dom": "^16.7.0",
     "react-loader-spinner": "^2.3.0",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "^3.0.1",
     "react-select": "^3.0.4",
     "react-slick": "^0.24.0",
